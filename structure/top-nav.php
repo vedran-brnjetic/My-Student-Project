@@ -19,8 +19,35 @@
             </a>
           </li>
           <li class="dropdown mega-menu-item mega-menu-two-columns">
-            <a class="dropdown-toggle" href="#">
-              Pages <i class="fa fa-angle-down"></i>
+            <a class="dropdown-toggle" href="http://users.metropolia.fi/~vedranb/portfolio">
+              Portfolio <i class="fa fa-angle-down"></i>
+              <ul class="dropdown-menu">
+                <li>
+                  <div class="mega-menu-content">
+                    <div class="row">
+                      <div class="col-md-6">
+                        <ul class="submenu">
+                          <li>
+                            <ul class="submenu">
+                              <li class="dropdown-submenu">
+                                <a href="#">Projects</a>
+                                <ul class="dropdown-menu">
+                                  <li><a href="http://users.metropolia.fi/~vedranb/portfolio/helsinginhitsaus">Helsingin Hitsaus</a></li>
+                                  <li><a href="http://users.metropolia.fi/~vedranb/portfolio/rugmaster">Rugmaster.uk</a></li>
+                                  <li><a href="http://users.metropolia.fi/~vedranb/portfolio/endlesspro">Endless.pro</a></li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-md-6">
+
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
             </a>
           </li>
           <li class="dropdown mega-menu-item mega-menu-fullwidth">
