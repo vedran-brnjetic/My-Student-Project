@@ -15,6 +15,11 @@
         <ul class="nav nav-pills nav-main scroll-menu" id="topMain">
           <li class="dropdown active">
             <a class="dropdown-toggle" href="#">
+              Assignment <i class="fa fa-angle-down"></i>
+            </a>
+          </li>
+          <li class="dropdown active">
+            <a class="dropdown-toggle" href="#">
               Home <i class="fa fa-angle-down"></i>
             </a>
           </li>
