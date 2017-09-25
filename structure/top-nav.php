@@ -13,14 +13,14 @@
     <div class="navbar-collapse nav-main-collapse collapse pull-right">
       <nav class="nav-main mega-menu">
         <ul class="nav nav-pills nav-main scroll-menu" id="topMain">
-          <li class="dropdown active">
-            <a class="dropdown-toggle" href="gallery.php">
-              Assignment <i class="fa fa-angle-down"></i>
+          <li class="active">
+            <a class="" href="gallery.php">
+              Assignment
             </a>
           </li>
-          <li class="active">
-            <a class="index.php" href="#">
-              Home <i class="fa"></i>
+          <li class="">
+            <a class="" href="index.php">
+              Home
             </a>
           </li>
           <li class="dropdown mega-menu-item mega-menu-one-columns">
@@ -50,7 +50,6 @@
                   </div>
                 </li>
               </ul>
-            </a>
           </li>
           <li class="dropdown mega-menu-item mega-menu-one-column">
             <a class="dropdown-toggle" href="#">
@@ -86,7 +85,6 @@
                   </div>
                 </li>
               </ul>
-            </a>
           </li>
           <li class="dropdown">
             <a class="dropdown-toggle" href="#">
