@@ -2,11 +2,9 @@
 
 	<div class="container">
 
-		<h2><strong>Explore</strong> my <strong>Photo</strong> gallery</h2>
+		<h2><strong>IT Orientation</strong> Photo gallery</h2>
 
     <hr>
-    		<p class="lead">Check out my projects (coming soon! these are just the demo. &lt;edit&gt;<strong>Web Development</strong> projects are real&lt;\edit&gt;)</p>
-
     		<ul class="nav nav-pills isotope-filter isotope-filter" data-sort-id="isotope-list" data-option-key="filter">
     			<li data-option-value="*" class="active"><a href="#">Show All</a></li>
     			<li data-option-value=".portraitphoto"><a href="#">Portrait</a></li>
