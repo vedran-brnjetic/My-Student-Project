@@ -14,13 +14,13 @@
       <nav class="nav-main mega-menu">
         <ul class="nav nav-pills nav-main scroll-menu" id="topMain">
           <li class="dropdown active">
-            <a class="dropdown-toggle" href="#">
+            <a class="dropdown-toggle" href="gallery.php">
               Assignment <i class="fa fa-angle-down"></i>
             </a>
           </li>
-          <li class="dropdown active">
-            <a class="dropdown-toggle" href="#">
-              Home <i class="fa fa-angle-down"></i>
+          <li class="active">
+            <a class="index.php" href="#">
+              Home <i class="fa"></i>
             </a>
           </li>
           <li class="dropdown mega-menu-item mega-menu-one-columns">
