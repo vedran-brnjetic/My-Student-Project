@@ -1,3 +1,12 @@
+<?php 
+
+	$page_type="blog";
+	$page_category="Lectures";
+	$page_title="HTML and CSS basics - Lecture notes";
+	$paage_breadcrumb="HTML/CSS Lecture Notes";
+
+?>
+
 <?php include 'structure/htmlhead.php';?>
 
 	<body><!-- Available classes for body: boxed , pattern1...pattern10 . Background Image - example add: data-background="assets/images/boxed_background/1.jpg"  -->
