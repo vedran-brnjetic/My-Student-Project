@@ -1,4 +1,4 @@
-<?php $page_type="portfolio";?>
+<?php $page_type="blog";?>
 <?php include 'structure/htmlhead.php';?>
 
 	<body><!-- Available classes for body: boxed , pattern1...pattern10 . Background Image - example add: data-background="assets/images/boxed_background/1.jpg"  -->
@@ -12,14 +12,13 @@
 		<span id="header_shadow"></span>
 		<!-- /TOP NAV -->
 
-
-		<!-- WRAPPER -->
+    <!-- WRAPPER -->
 		<div id="wrapper">
 
 			<!-- PAGE TITLE -->
 			<?php include 'structure/page_header.php'; ?>
 
-			<?php include 'portfolio.php'; ?>
+			<?php include 'web-dev.php'; ?>
 
 		</div>
 		<!-- /WRAPPER -->
